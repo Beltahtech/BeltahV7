@@ -36,8 +36,10 @@
 
 ## 4. DEPLOY NOW ON HEROKU 
     
-⏣ [**DEPLOY**](https://dashboard.heroku.com/new?template=https://github.com/Beltahmd/beltah-md) BELTAH-MD NOW. 
+⏣ <br>
 
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2FBeltahmd.github.io%2F&template=https%3A%2F%2Fgithub.com%2FBeltahmd%2Fbeltah-md)
  ## WATCH TUTORIAL AND SUBSCRIBE
 
 ⏣WATCH FULL VIDEO ON HOW TO DEPLOY BELTAH-MD BY CLICKING  [**HERE**](https://www.youtube.com/@Beltahtech2024) 
