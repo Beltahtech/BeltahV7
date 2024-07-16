@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Beltahmd/beltah-md /root/beltah
+RUN git clone https://github.com/Beltahtech/BeltahV7 /root/beltah
 WORKDIR /root/beltah/
 
 
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "beltah.js"]
+CMD ["node", "devbeltah.js"]
